@@ -1,3 +1,3 @@
-export public class NormaWH{
+export class NormaWH{
 
 }
